@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/chitti123/Downloads/EmertxeLMS/CPP_MODULE/DSA-C++",
+      "program": "/Users/chitti123/Downloads/EmertxeLMS/CPP_MODULE/DSA-C++/build/Debug/outDebug"
+    }
+  ]
+}
